@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/a1.png</file>
+        <file>img/a2.png</file>
+        <file>img/a3.png</file>
+        <file>img/a4.png</file>
+        <file>img/backsetup.bmp</file>
+        <file>img/backxingzou.bmp</file>
+        <file>img/bigpan.png</file>
+        <file>img/d1.png</file>
+        <file>img/d2.png</file>
+        <file>img/findlook.bmp</file>
+        <file>img/labano.png</file>
+        <file>img/miji.png</file>
+        <file>img/mijibai.png</file>
+        <file>img/qingling.png</file>
+        <file>img/qinglingbai.png</file>
+        <file>img/setup.bmp</file>
+        <file>img/smallpan.png</file>
+        <file>img/timeicon.png</file>
+        <file>img/vvbigpan.png</file>
+        <file>img/xingzou.bmp</file>
+        <file>img/time.bmp</file>
+    </qresource>
+</RCC>
