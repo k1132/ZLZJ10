@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/icon/zhuansu.png</file>
+        <file>img/icon/shuiwen.png</file>
+        <file>img/jiemian/YZT_10.bmp</file>
+        <file>img/jiemian/YZB_3A_B.bmp</file>
+        <file>img/jiemian/machineswitch.bmp</file>
+        <file>img/jiemian/SwitchMachineMenu.bmp</file>
+        <file>img/jiemian/MainMenu.bmp</file>
+        <file>img/jiemian/labayes.png</file>
+        <file>img/jiemian/EngineSwitchMenu.bmp</file>
+        <file>img/icon/jiyouyali.png</file>
+        <file>img/jiemian/4YZB_4_5_7_8.bmp</file>
+    </qresource>
+</RCC>
